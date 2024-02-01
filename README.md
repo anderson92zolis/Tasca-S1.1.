@@ -45,3 +45,17 @@ Explore [Media Queries](https://getbootstrap.com/docs/5.3/layout/breakpoints/#me
 - Address common issues mentioned above for optimal results.
 
 **Happy coding!** 🚀
+
+
+## Levels
+
+
+1. [Level 1 ](https://github.com/anderson92zolis/Tasca_S1.1_Layout/blob/main/Levels/Levels%20I%20task%201.jpg)
+
+2. [Level 2 ](https://github.com/anderson92zolis/Tasca_S1.1_Layout/blob/main/Levels/Levels%20I%20task%202.jpg)
+3. [Level 3 ](https://github.com/anderson92zolis/Tasca_S1.1_Layout/blob/main/Levels/Levels%20I%20task%203.jpg)
+4. [Level 4 ](https://github.com/anderson92zolis/Tasca_S1.1_Layout/blob/main/Levels/Levels%202%20task%204.jpg)
+5. [Level 5 ](https://github.com/anderson92zolis/Tasca_S1.1_Layout/blob/main/Levels/Levels%203%20task%205.jpg)
+
+
+
