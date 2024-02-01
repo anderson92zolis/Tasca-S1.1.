@@ -1,19 +1,37 @@
-# Tasca-S1.1.
-HTML i CSS amb Flex. In this practice you will have to make a Layout that must work both on desktop, mobile and tablet.
+# Tasca-S1.1. Responsive HTML and CSS Flex Layout
 
+This practice focuses on creating a responsive layout that seamlessly functions across desktop, mobile, and tablet devices using HTML and CSS Flexbox. Ensure you have the following knowledge to ease the completion of this exercise:
 
-In this practice you will have to make a Layout that must work both on desktop, mobile and tablet.
+Prerequisite Knowledge:
 
+HTML and CSS Flexbox:
 
- Important: Knowledge you must have to facilitate solving the practice.
+Refer to the Flexbox CSS: Complete Guide, Elements, and Examples for comprehensive insights into Flexbox usage.
+Media Queries:
 
-HTML and CSS
-Flexbox. -> Flexbox CSS: Complete Guide, Elements and Examples
-Media queries (you can use the cut points like bootstrap. -> Media queries
-Keep the following considerations in mind. These are common errors in deliveries:
+Utilize media queries with breakpoints similar to Bootstrap for responsive design.
+Explore Media Queries for guidance on setting up breakpoints.
+Important Considerations:
+Avoid Heightening Layers:
 
-In general, we never heighten a layer, but instead let the layer adapt to its content (if the layer has no content, you can heighten it).
-The page should not have a horizontal scroll bar (if it happens to you, you will have to find out by inspecting the page which block is wider than the browser screen).
-Inside a div there are usually other divs. divs have display:block by default. This causes them to be placed vertically. Therefore, it is often not necessary to specify the following styles for an element to be redundant:
-.element{ display:flex; flex-direction:column }
-In a div, by default the width is the whole of the layer it wraps, so you usually won't need to specify width:100%
+Layers should adapt to their content; avoid unnecessarily increasing height.
+Exceptions: Heightening is acceptable when a layer has no content.
+Prevent Horizontal Scroll Bar:
+
+Ensure the page doesn't have a horizontal scrollbar.
+Use browser inspection to identify wider blocks causing this issue.
+Nested Divs and Display Property:
+
+Understand that within a div, there are often nested divs.
+By default, divs have display: block, causing them to stack vertically.
+Redundant styles like display: flex; flex-direction: column might not be necessary.
+Width of Divs:
+
+Note that by default, the width of a div is the entirety of the wrapping layer.
+Usually, specifying width: 100% is unnecessary.
+Practice Guidelines:
+Develop a responsive layout catering to desktop, mobile, and tablet devices.
+Apply Flexbox principles for efficient and flexible design.
+Employ media queries for responsive breakpoints.
+Address common issues mentioned above for optimal results.
+Happy coding! 🚀
