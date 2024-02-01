@@ -57,5 +57,10 @@ Explore [Media Queries](https://getbootstrap.com/docs/5.3/layout/breakpoints/#me
 4. [Level 4 ](https://github.com/anderson92zolis/Tasca_S1.1_Layout/blob/main/Levels/Levels%202%20task%204.jpg)
 5. [Level 5 ](https://github.com/anderson92zolis/Tasca_S1.1_Layout/blob/main/Levels/Levels%203%20task%205.jpg)
 
+## Resources
+
+[css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+<br>
+[FLEXBOX FROGGY](https://flexboxfroggy.com/#es)
 
 
