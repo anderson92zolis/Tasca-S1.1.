@@ -2,16 +2,21 @@
 
 This task is designed to help you create a responsive layout that seamlessly adapts to desktop, mobile, and tablet devices using HTML and CSS Flexbox. Ensure you are equipped with the following knowledge to make the most of this exercise:
 
+## Objectives
+Understand and practice HTML and CSS.
+Learn how to create small CSS animations.
+Understand how MediaQueries work.
+
 ## Prerequisite Knowledge:
 
 ### HTML and CSS Flexbox:
 
-Refer to the [Flexbox CSS: Complete Guide, Elements, and Examples](#) for comprehensive insights into Flexbox usage.
+Refer to the [Flexbox CSS: Complete Guide, Elements, and Examples](https://www.aluracursos.com/blog/flexbox-css-guia-completo-elementos-y-ejemplos) for comprehensive insights into Flexbox usage.
 
 ### Media Queries:
 
 Utilize media queries with breakpoints similar to Bootstrap for responsive design.
-Explore [Media Queries](#) for guidance on setting up breakpoints.
+Explore [Media Queries](https://getbootstrap.com/docs/5.3/layout/breakpoints/#media-queries) for guidance on setting up breakpoints.
 
 ## Important Considerations:
 
