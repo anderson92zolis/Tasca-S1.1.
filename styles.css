@@ -1,0 +1,69 @@
+.flex-container {
+    display: flex;
+    background-color: yellow;
+  
+  }
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 1200px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
+.container1 {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+.item1_1_1{
+  flex-basis: 15%;
+ }
+ .item1_1_2{
+  flex-basis: 70%;
+ }
+ .item1_1_3{
+  flex-basis: 15%;
+ }
+
+.container1_1 {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  background-color: white;
+}
+.container1_2 {
+  
+  background-color: white;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: white;
+}
+
+.container2_1 {
+  align-items: center;
+  width: 100%;
+  background-color: red;
+}
+.container2_2 { 
+  align-content: center;
+  width: 100%;
+  background-color: red;
+}
+.container3 {
+  background-color: black;
+}
+
+
+div {
+    background-color: DodgerBlue;
+    color: white;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
