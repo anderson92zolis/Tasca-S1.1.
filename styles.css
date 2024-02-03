@@ -1,6 +1,9 @@
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (max-width: 1200px) {
-  body {background-color: brown}
+  body {
+    background-color: brown
+  }
+
   .flex-container {
     display: flex;
     flex-direction: column;
@@ -17,6 +20,16 @@
 
   .item1_1_1 {
     flex-basis: 15%;
+    transition: transform 0.3s ease-in-out;
+    /* Transición suave durante 0.3 segundos */
+
+  }
+
+  .item1_1_1:hover {
+    transform: scale(1.05);
+    background-color: purple;
+    /* Escala el elemento al 110% en hover */
+
   }
 
   .item1_1_2 {
@@ -34,8 +47,8 @@
   }
 
   .container1_2,
-  .container2_2  {
-    background-color: white; 
+  .container2_2 {
+    background-color: white;
   }
 
   .container2 {
@@ -74,13 +87,16 @@
   }
 
   .container3 {
-    background-color: black; 
+    background-color: black;
   }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (max-width: 768px) {
-  body {background-color: blue}
+  body {
+    background-color: blue
+  }
+
   .container2,
   .container2_1,
   .container2_2 {
@@ -110,7 +126,10 @@
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-  body {background-color: blue}
+  body {
+    background-color: blue
+  }
+
   .container1_1,
   .container2_1 {
     display: flex;
