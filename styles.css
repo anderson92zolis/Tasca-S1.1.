@@ -1,5 +1,6 @@
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (max-width: 1200px) {
+  body {background-color: brown}
   .flex-container {
     display: flex;
     flex-direction: column;
@@ -79,6 +80,7 @@
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (max-width: 768px) {
+  body {background-color: blue}
   .container2,
   .container2_1,
   .container2_2 {
@@ -108,6 +110,7 @@
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+  body {background-color: blue}
   .container1_1,
   .container2_1 {
     display: flex;
